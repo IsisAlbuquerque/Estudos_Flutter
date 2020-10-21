@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/home/isis/development/flutter
-FLUTTER_APPLICATION_PATH=/home/isis/projetos/estudos/contador_de_pessoas
+FLUTTER_APPLICATION_PATH=/home/isis/projetos/estudos/Estudos_Flutter/contador_de_pessoas
 FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios

@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/home/isis/development/flutter"
-export "FLUTTER_APPLICATION_PATH=/home/isis/projetos/estudos/Estudos_Flutter/contador_de_pessoas"
+export "FLUTTER_APPLICATION_PATH=/home/isis/projetos/estudos/Estudos_Flutter/lista_tarefas"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
